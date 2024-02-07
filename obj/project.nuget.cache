@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xs37u7BRL5XRtrabXruqpqcx90CQ8mRVosF0kIpNky6l3O/ot5mK2uLb1wLqcQKzdwXepJAu2kf1bcVepN57/A==",
+  "success": true,
+  "projectFilePath": "/workspaces/sftp-public/NewRepo.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/azure.core/1.36.0/azure.core.1.36.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.identity/1.10.4/azure.identity.1.10.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.storage.blobs/12.19.1/azure.storage.blobs.12.19.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.storage.common/12.18.1/azure.storage.common.12.18.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/core.renci.sshnet/2021.10.2/core.renci.sshnet.2021.10.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identity.client/4.56.0/microsoft.identity.client.4.56.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identity.client.extensions.msal/4.56.0/microsoft.identity.client.extensions.msal.4.56.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identitymodel.abstractions/6.22.0/microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/sshnet.security.cryptography/1.3.0/sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.io.filesystem.accesscontrol/5.0.0/system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.security.cryptography.protecteddata/4.7.0/system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

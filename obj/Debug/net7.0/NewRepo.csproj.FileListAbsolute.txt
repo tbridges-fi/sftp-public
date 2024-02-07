@@ -1,0 +1,60 @@
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/NewRepo
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/NewRepo.deps.json
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/NewRepo.runtimeconfig.json
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/NewRepo.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/NewRepo.pdb
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Azure.Core.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Azure.Identity.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Azure.Storage.Common.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Renci.SshNet.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/SshNet.Security.Cryptography.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/System.IO.Hashing.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/System.Memory.Data.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/NewRepo/sftp code/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.csproj.AssemblyReference.cache
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.AssemblyInfoInputs.cache
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.AssemblyInfo.cs
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.csproj.CoreCompileInputs.cache
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.csproj.CopyComplete
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.dll
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/refint/NewRepo.dll
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.pdb
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/NewRepo.genruntimeconfig.cache
+/workspaces/NewRepo/sftp code/obj/Debug/net7.0/ref/NewRepo.dll
+/workspaces/sftp-public/bin/Debug/net7.0/NewRepo
+/workspaces/sftp-public/bin/Debug/net7.0/NewRepo.deps.json
+/workspaces/sftp-public/bin/Debug/net7.0/NewRepo.runtimeconfig.json
+/workspaces/sftp-public/bin/Debug/net7.0/NewRepo.dll
+/workspaces/sftp-public/bin/Debug/net7.0/NewRepo.pdb
+/workspaces/sftp-public/bin/Debug/net7.0/Azure.Core.dll
+/workspaces/sftp-public/bin/Debug/net7.0/Azure.Identity.dll
+/workspaces/sftp-public/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+/workspaces/sftp-public/bin/Debug/net7.0/Azure.Storage.Common.dll
+/workspaces/sftp-public/bin/Debug/net7.0/Renci.SshNet.dll
+/workspaces/sftp-public/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/workspaces/sftp-public/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/workspaces/sftp-public/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/workspaces/sftp-public/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/workspaces/sftp-public/bin/Debug/net7.0/SshNet.Security.Cryptography.dll
+/workspaces/sftp-public/bin/Debug/net7.0/System.IO.Hashing.dll
+/workspaces/sftp-public/bin/Debug/net7.0/System.Memory.Data.dll
+/workspaces/sftp-public/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/sftp-public/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.csproj.AssemblyReference.cache
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.AssemblyInfoInputs.cache
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.AssemblyInfo.cs
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.csproj.CoreCompileInputs.cache
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.csproj.CopyComplete
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.dll
+/workspaces/sftp-public/obj/Debug/net7.0/refint/NewRepo.dll
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.pdb
+/workspaces/sftp-public/obj/Debug/net7.0/NewRepo.genruntimeconfig.cache
+/workspaces/sftp-public/obj/Debug/net7.0/ref/NewRepo.dll

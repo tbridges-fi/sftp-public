@@ -1,1 +1,13 @@
- 
+ index=index1
+| table runid data_written
+| join runid [
+    search index=index2
+    | eval match_type = if(runid == correlationid, "direct", "indirect")
+    | table runid correlationid parentpipelineid filename
+    | append [ 
+        search index=index2
+        | where parentpipelineid IN [search index=index1 | table runid | rename runid as parentpipelineid]
+        | table parentpipelineid correlationid
+        | join correlationid [search index=index2 | table correlationid filename]
+    ]
+]

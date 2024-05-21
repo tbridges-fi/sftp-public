@@ -1,10 +1,10 @@
  message: 
 Message: Application Error: Bad Request
-RequestBody: [{"bean":{"CLASS_TYPE":"CashForecastExtBean","acctCd":"N0000572.UNVER","amt":0.070000,"amtType":"FTC","crrncyCd":"USD","descr":"5008W00001KwJBUQA3-SF-1703926-CD","subTypeCd":"SFINTRADAY","udfChar_1":"5008W00001KwJBUQA3","udfChar_2":"1703926","udfChar_3":"CD","forecastDate":"2024-05-21"}}]
+RequestBody: [{"bean":{"CLASS_TYPE":"CashForecastExtBean","acctCd":"N0000572","amt":0.070000,"amtType":"FTC","crrncyCd":"USD","descr":"5008W00001KwJBRQA3-SF-1703927-CD","subTypeCd":"SFINTRADAY","udfChar_1":"5008W00001KwJBRQA3","udfChar_2":"1703927","udfChar_3":"CD","forecastDate":"2024-05-21"}}]
 ResponseBody: 
 Service Name: 
 Method Name: 
-CorrelationId: 9a71d2f2-5369-4d64-a99b-95d502a7e03e
+CorrelationId: 1d59e168-c156-4e1a-8666-685f7c82957f
 Status Code: 400
 Error:    at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
    at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
@@ -30,4 +30,3 @@ Error:    at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& argu
    at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
 ExceptionThrown: ServerSoapException
 Has error: False
-}

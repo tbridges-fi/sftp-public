@@ -1,18 +1,3 @@
- index=index1
-| table runid data_written
-| join runid [
-    search index=index2
-    | eval match_type = if(runid == correlationid, "direct", "indirect")
-    | table runid correlationid parentpipelineid filename
-    | append [ 
-        search index=index2
-        | where parentpipelineid IN [search index=index1 | table runid | rename runid as parentpipelineid]
-        | table parentpipelineid correlationid
-        | join correlationid [search index=index2 | table correlationid filename]
-    ]
-]
-
-
  message: 
 Message: Application Error: Bad Request
 RequestBody: [{"bean":{"CLASS_TYPE":"CashForecastExtBean","acctCd":"N0000572.UNVER","amt":0.070000,"amtType":"FTC","crrncyCd":"USD","descr":"5008W00001KwJBUQA3-SF-1703926-CD","subTypeCd":"SFINTRADAY","udfChar_1":"5008W00001KwJBUQA3","udfChar_2":"1703926","udfChar_3":"CD","forecastDate":"2024-05-21"}}]
